@@ -1,0 +1,21 @@
+name: LobbySystem
+version: 1.1.0
+main: de.loggx.lobbysystem.LobbySystem
+api-version: '1.21'
+author: SujucDerBreite
+description: Modernes Netzwerk-Lobbysystem für Minecraft 1.21.10 bis 1.26.3
+commands:
+  build:
+    description: De-/aktiviert den Baumodus
+  lobbycoins:
+    description: Verwaltet LobbyCoins
+  setreward:
+    description: Setzt oder entfernt die Daily-Reward Hexe
+  setsettings:
+    description: Setzt oder entfernt den Einstellungs-Dorfbewohner
+  setspawn:
+    description: Setzt den Spawn-Punkt
+  setwarp:
+    description: Setzt einen Warp-Punkt
+  tpcoord:
+    description: Teleportiert zu Koordinaten
